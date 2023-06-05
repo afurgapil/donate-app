@@ -1,0 +1,17 @@
+#modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  .modal__items {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    &:first-child {
+      justify-content: end;
+      color: rgb(167, 0, 0);
+      font-size: 2rem;
+    }
+  }
+}

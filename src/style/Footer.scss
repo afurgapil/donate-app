@@ -1,0 +1,38 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  background-color: #0d5c63;
+  color: white;
+  height: 2rem;
+  div {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+  .dashboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    text-align: end;
+    margin-right: 2rem;
+    padding: 4px;
+    p {
+      margin: 0px;
+    }
+  }
+  a {
+    color: black;
+    padding: 0.2rem;
+    font-size: large;
+    text-decoration: none;
+    &:hover {
+      font-size: larger;
+      text-decoration: underline;
+    }
+  }
+}
