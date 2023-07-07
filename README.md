@@ -2,6 +2,9 @@
 
 This project allows you to collect donations on the blockchain using smart contracts. It is a dynamic project that provides address and balance management through an admin panel.
 
+<img width="1455" alt="donate" src="https://github.com/afurgapil/donate-app/assets/99171546/f6c6da16-bcfa-4974-afc3-e08b1e3b5d7f">
+
+
 ## Getting Started
 
 Make sure to configure the necessary settings to use the project, or you may encounter errors.
